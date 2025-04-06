@@ -44,7 +44,7 @@ export default function AcessPage() {
 
       <main className="mt-16 flex items-center justify-center">
         <div className="w-full p-10 md:max-w-[500px] flex flex-col">
-          <h1 className="text-4xl font-medium">Entrar no meli</h1>
+          <h1 className="text-4xl font-medium">Entrar</h1>
 
           <span className="text-[#5c525b] text-xl mt-2">
             A casa é sua, se aprochegue.
